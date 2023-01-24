@@ -24,9 +24,9 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
                     <a href="{{ url('/') }}" class="nav-item nav-link active">Home</a>
-                    <a href="{{ url('/') }}#aboutus" class="nav-item nav-link">About Us</a>
+                    <a href="{{ url('aboutus') }}#aboutus" class="nav-item nav-link">About Us</a>
                     <a href="{{ url('/') }}#products" class="nav-item nav-link">Products</a>
-                    <a href="{{ url('/contact') }}#contact" class="nav-item nav-link">Contact Us</a>
+                    <a href="{{ url('/contacts') }}#contacts" class="nav-item nav-link">Contact Us</a>
                     <a href="/login" class="nav-item nav-link">Login</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
