@@ -16,7 +16,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('page');
 });
-
-Route::get('/about', function(){
-    return view('homepage-features.about');
+Route::get('/contact', function () {
+    return view('contact');
 });
+
+
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth', 'verified'])->name('dashboard');
+
+require __DIR__.'/auth.php';

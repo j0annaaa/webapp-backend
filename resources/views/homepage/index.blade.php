@@ -29,7 +29,7 @@
 
     <!-- Template Stylesheet -->
     <link href="{{ asset('asset-homepage/css/style.css') }}" rel="stylesheet">
-    <link rel="stylesheet" href="{{ asset('public/assets-homepage/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets-homepage/css/style.css?v=').time() }}">
 </head>
 
 <body>

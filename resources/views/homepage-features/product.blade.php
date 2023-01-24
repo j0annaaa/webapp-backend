@@ -5,19 +5,19 @@
                 <div class="col-lg-6">
                     <div class="section-header text-start mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
                         <h1 class="display-5 mb-3">Our Products</h1>
-                        <p>Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
+                        <p>All of our products are made from scratch using traditional recipes with only the highest quality ingredients. We bake and sell fresh goods to ensure only the best products are sold to our customers.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 text-start text-lg-end wow slideInRight" data-wow-delay="0.1s">
                     <ul class="nav nav-pills d-inline-flex justify-content-end mb-5">
                         <li class="nav-item me-2">
-                            <a class="btn btn-outline-primary border-2 active" data-bs-toggle="pill" href="#tab-1">Vegetable</a>
+                            <a class="btn btn-outline-primary border-2 active" data-bs-toggle="pill" href="#tab-1">Minimalist Cakes</a>
                         </li>
                         <li class="nav-item me-2">
-                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-2">Fruits </a>
+                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-2">Customized Cakes</a>
                         </li>
                         <li class="nav-item me-0">
-                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-3">Fresh</a>
+                            <a class="btn btn-outline-primary border-2" data-bs-toggle="pill" href="#tab-3">Bite Sized</a>
                         </li>
                     </ul>
                 </div>
@@ -26,15 +26,16 @@
                 <div id="tab-1" class="tab-pane fade show p-0 active">
                     <div class="row g-4">
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-1.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist1.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -45,17 +46,18 @@
                                     </small>
                                 </div>
                             </div>
+
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-2.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist2.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -66,17 +68,18 @@
                                     </small>
                                 </div>
                             </div>
+
                         </div>
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-3.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist3.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -91,13 +94,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-4.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist4.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -112,13 +115,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-5.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist5.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -133,13 +136,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-6.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist6.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -154,13 +157,57 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-7.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist7.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                </div>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                    </small>
+                                    <small class="w-50 text-center py-2">
+                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="product-item">
+                                <div class="position-relative bg-light overflow-hidden">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist8.jpg') }}" alt="">
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                </div>
+                                <div class="text-center p-4">
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                </div>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                    </small>
+                                    <small class="w-50 text-center py-2">
+                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="product-item">
+                                <div class="position-relative bg-light overflow-hidden">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist9.jpg') }}" alt="">
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                </div>
+                                <div class="text-center p-4">
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -175,13 +222,76 @@
                         <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-8.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist10.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                </div>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                    </small>
+                                    <small class="w-50 text-center py-2">
+                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="product-item">
+                                <div class="position-relative bg-light overflow-hidden">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist11.jpg') }}" alt="">
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                </div>
+                                <div class="text-center p-4">
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                </div>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                    </small>
+                                    <small class="w-50 text-center py-2">
+                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="product-item">
+                                <div class="position-relative bg-light overflow-hidden">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist12.jpg') }}" alt="">
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                </div>
+                                <div class="text-center p-4">
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                </div>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                    </small>
+                                    <small class="w-50 text-center py-2">
+                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="product-item">
+                                <div class="position-relative bg-light overflow-hidden">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/minimalist-cakes/minimalist13.jpg') }}" alt="">
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                </div>
+                                <div class="text-center p-4">
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -198,18 +308,19 @@
                         </div>
                     </div>
                 </div>
+
                 <div id="tab-2" class="tab-pane fade show p-0">
                     <div class="row g-4">
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-1.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized1.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -224,13 +335,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-2.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized2.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -245,13 +356,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-3.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized3.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -266,13 +377,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-4.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized4.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -287,13 +398,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-5.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized5.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -308,13 +419,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-6.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized6.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -326,16 +437,17 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-7.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized7.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -347,16 +459,17 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-3 col-lg-4 col-md-6">
+
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-8.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized8.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -368,6 +481,51 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="product-item">
+                                <div class="position-relative bg-light overflow-hidden">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized9.jpg') }}" alt="">
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                </div>
+                                <div class="text-center p-4">
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                </div>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                    </small>
+                                    <small class="w-50 text-center py-2">
+                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-3 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="product-item">
+                                <div class="position-relative bg-light overflow-hidden">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/customized-cakes/customized10.jpg') }}" alt="">
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
+                                </div>
+                                <div class="text-center p-4">
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                </div>
+                                <div class="d-flex border-top">
+                                    <small class="w-50 text-center border-end py-2">
+                                        <a class="text-body" href=""><i class="fa fa-eye text-primary me-2"></i>View detail</a>
+                                    </small>
+                                    <small class="w-50 text-center py-2">
+                                        <a class="text-body" href=""><i class="fa fa-shopping-bag text-primary me-2"></i>Add to cart</a>
+                                    </small>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="col-12 text-center">
                             <a class="btn btn-primary rounded-pill py-3 px-5" href="">Browse More Products</a>
                         </div>
@@ -378,13 +536,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-1.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/bite-sized/cupcake1.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -399,13 +557,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-2.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/bite-sized/macarons2.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -420,13 +578,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-3.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/bite-sized/bananacake3.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -441,13 +599,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-4.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/bite-sized/bananacake4.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -462,13 +620,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-5.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/bite-sized/brownies5.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -483,13 +641,13 @@
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-6.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/bite-sized/brownies6.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -501,16 +659,17 @@
                                 </div>
                             </div>
                         </div>
+                        
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-7.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/bite-sized/cupcake7.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -522,16 +681,17 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="product-item">
                                 <div class="position-relative bg-light overflow-hidden">
-                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/img/product-8.jpg') }}" alt="">
+                                    <img class="img-fluid w-100" src="{{asset('assets-homepage/image-homepage/bite-sized/yema8.jpg') }}" alt="">
                                     <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">New</div>
                                 </div>
                                 <div class="text-center p-4">
-                                    <a class="d-block h5 mb-2" href="">Fresh Tomato</a>
-                                    <span class="text-primary me-1">$19.00</span>
-                                    <span class="text-body text-decoration-line-through">$29.00</span>
+                                    
+                                    <span class="text-primary me-1">₱19.00</span>
+                                    <span class="text-body text-decoration-line-through">₱29.00</span>
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">

@@ -7,7 +7,7 @@
             </div>
             <div class="col-lg-6 px-5 text-end">
                 <small>Follow us:</small>
-                <a class="text-body ms-3" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="text-body ms-3" href="https://web.facebook.com/SweetToothAlley88/?_rdc=1&_rdr"><i class="fab fa-facebook-f"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-twitter"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-linkedin-in"></i></a>
                 <a class="text-body ms-3" href=""><i class="fab fa-instagram"></i></a>
@@ -24,9 +24,10 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto p-4 p-lg-0">
                     <a href="{{ url('/') }}" class="nav-item nav-link active">Home</a>
-                    <a href="{{ url('/about') }}" class="nav-item nav-link">About Us</a>
+                    <a href="{{ url('/') }}#aboutus" class="nav-item nav-link">About Us</a>
                     <a href="{{ url('/') }}#products" class="nav-item nav-link">Products</a>
-                    <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                    <a href="{{ url('/contact') }}#contact" class="nav-item nav-link">Contact Us</a>
+                    <a href="/login" class="nav-item nav-link">Login</a>
                 </div>
                 <div class="d-none d-lg-flex ms-2">
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
