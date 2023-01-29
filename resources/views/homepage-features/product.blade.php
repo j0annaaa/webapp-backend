@@ -34,8 +34,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱450.00</span>
+                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -56,8 +56,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -78,8 +78,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -99,8 +99,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -120,8 +120,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -141,8 +141,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱350.00</span>
+                                   
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -162,8 +162,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -184,8 +184,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱250.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -206,8 +206,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱500.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -227,8 +227,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱500.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -248,8 +248,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -269,8 +269,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱100.00</span>
+                                   
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -290,8 +290,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱200.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -319,8 +319,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱1,300.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -340,8 +340,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱1,100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -361,8 +361,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱1,100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -382,8 +382,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱700.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -403,8 +403,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱1,100.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -424,8 +424,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱1,300.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -446,8 +446,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱1,300.00</span>
+                                   
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -468,8 +468,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱1,300.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -490,8 +490,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱700.00</span>
+                                   
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -512,8 +512,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱950.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -541,8 +541,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱300.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -562,8 +562,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱300.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -583,8 +583,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱300.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -604,8 +604,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱300.00</span>
+                                  
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -625,8 +625,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱150.00</span>
+                                  
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -646,8 +646,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱150.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -668,8 +668,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱300.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -690,8 +690,8 @@
                                 </div>
                                 <div class="text-center p-4">
                                     
-                                    <span class="text-primary me-1">₱19.00</span>
-                                    <span class="text-body text-decoration-line-through">₱29.00</span>
+                                    <span class="text-primary me-1">₱850.00</span>
+                                    
                                 </div>
                                 <div class="d-flex border-top">
                                     <small class="w-50 text-center border-end py-2">
@@ -719,8 +719,8 @@
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-md-7 wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="display-5 text-white mb-3">Visit Our Firm</h1>
-                    <p class="text-white mb-0">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.</p>
+                    <h1 class="display-5 text-white mb-3">Visit Our Shop</h1>
+                    <p class="text-white mb-0">A thoughtful expression of modern craft through good food and warm experiences, we offer you our handmade cakes and pastries treats delivered to your door that everyone will love. Visit now.</p>
                 </div>
                 <div class="col-md-5 text-md-end wow fadeIn" data-wow-delay="0.5s">
                     <a class="btn btn-lg btn-secondary rounded-pill py-3 px-5" href="">Visit Now</a>
@@ -735,51 +735,52 @@
     <div class="container-fluid bg-light bg-icon py-6 mb-5">
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-5 mb-3">Customer Review</h1>
-                <p>Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
+                <h1 class="display-5 mb-3">Customer Reviews</h1>
+                <p>Do you recommend Sweet Tooth Alley (Cakes and Pastries)? Your feedback is highly appreciated.</p>
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="testimonial-item position-relative bg-white p-5 mt-4">
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-4">⭐⭐⭐⭐⭐thank you for accomodating my order. fast and easy to transact. till next order... highly recommended.👍👍👍</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="{{asset('assets-homepage/img/testimonial-1.jpg') }}" alt="">
+                        
                         <div class="ms-3">
-                            <h5 class="mb-1">Client Name</h5>
-                            <span>Profession</span>
+                            <h5 class="mb-1">Janette Janson-Dua </h5>
+                            
                         </div>
                     </div>
                 </div>
                 <div class="testimonial-item position-relative bg-white p-5 mt-4">
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-4">Thank you po sa lamian na cake. Grabe ka affordable pero lami kaayo ang cake... layo sa akong expectation kay barato ra 😊 pero lami diay to, accommodating sad ang seller 😊😊😊 will order again sunod..</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="{{asset('assets-homepage/img/testimonial-2.jpg') }}" alt="">
+                       
                         <div class="ms-3">
-                            <h5 class="mb-1">Client Name</h5>
-                            <span>Profession</span>
+                            <h5 class="mb-1">Joan Jane Josol-Sanchez </h5>
+                            
                         </div>
                     </div>
                 </div>
                 <div class="testimonial-item position-relative bg-white p-5 mt-4">
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-4">Thank you for accommodating my unprecedented request 🤍
+                        it's simple + pretty + 😋</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="{{asset('assets-homepage/img/testimonial-3.jpg') }}" alt="">
+                        
                         <div class="ms-3">
-                            <h5 class="mb-1">Client Name</h5>
-                            <span>Profession</span>
+                            <h5 class="mb-1">Ranie Pioquinto</h5>
+                            
                         </div>
                     </div>
                 </div>
                 <div class="testimonial-item position-relative bg-white p-5 mt-4">
                     <i class="fa fa-quote-left fa-3x text-primary position-absolute top-0 start-0 mt-n4 ms-5"></i>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
+                    <p class="mb-4">thanks yots Jonalyn Dolero Alerta lamiay jud kaayo😋</p>
                     <div class="d-flex align-items-center">
-                        <img class="flex-shrink-0 rounded-circle" src="{{asset('assets-homepage/img/testimonial-4.jpg')}}" alt="">
+                        
                         <div class="ms-3">
-                            <h5 class="mb-1">Client Name</h5>
-                            <span>Profession</span>
+                            <h5 class="mb-1">Margaux Espenido</h5>
+                          
                         </div>
                     </div>
                 </div>
@@ -789,45 +790,4 @@
     <!-- Testimonial End -->
 
 
-    <!-- Blog Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-5 mb-3">Latest Blog</h1>
-                <p>Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <img class="img-fluid" src="{{asset('assets-homepage/img/blog-1.jpg') }}" alt="">
-                    <div class="bg-light p-4">
-                        <a class="d-block h5 lh-base mb-4" href="">How to cultivate organic fruits and vegetables in own firm</a>
-                        <div class="text-muted border-top pt-4">
-                            <small class="me-3"><i class="fa fa-user text-primary me-2"></i>Admin</small>
-                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>01 Jan, 2045</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <img class="img-fluid" src="{{asset('assets-homepage/img/blog-2.jpg') }}" alt="">
-                    <div class="bg-light p-4">
-                        <a class="d-block h5 lh-base mb-4" href="">How to cultivate organic fruits and vegetables in own firm</a>
-                        <div class="text-muted border-top pt-4">
-                            <small class="me-3"><i class="fa fa-user text-primary me-2"></i>Admin</small>
-                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>01 Jan, 2045</small>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="{{asset('assets-homepage/img/blog-3.jpg') }}" alt="">
-                    <div class="bg-light p-4">
-                        <a class="d-block h5 lh-base mb-4" href="">How to cultivate organic fruits and vegetables in own firm</a>
-                        <div class="text-muted border-top pt-4">
-                            <small class="me-3"><i class="fa fa-user text-primary me-2"></i>Admin</small>
-                            <small class="me-3"><i class="fa fa-calendar text-primary me-2"></i>01 Jan, 2045</small>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Blog End -->
+    

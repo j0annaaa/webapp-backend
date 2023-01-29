@@ -20,7 +20,7 @@ Route::get('/', function () {
 Route::get('/aboutus', function () {
     return view('aboutus');
 });
-Route::get('/contacts', function () {
+Route::get('/contact', function () {
     return view('contacts');
 });
 

@@ -3,12 +3,12 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="{{asset('assets-homepage/img/carousel-1.jpg') }}" alt="Image">
+                    <img class="w-100" src="{{asset('assets-homepage/image-homepage/infos/image7.jpg') }}" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
-                                    <h1 class="display-2 mb-5 animated slideInDown">Sweeth Tooth Alley (Cakes and Pastries)</h1>
+                                    <h1 class="display-2 mb-5 animated slideInDown">Sweet Tooth Alley (Cakes and Pastries)</h1>
                                     <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
                                     <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
                                 </div>
@@ -17,7 +17,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="{{asset('assets-homepage/img/carousel-2.jpg') }}" alt="Image">
+                    <img class="w-100" src="{{asset('assets-homepage/image-homepage/infos/image9.jpg') }}" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-start">
