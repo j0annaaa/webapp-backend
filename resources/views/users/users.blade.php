@@ -25,7 +25,7 @@
 
                     <a href="{{ url('/users/add')}}">
 
-                        <button class="float-right rounded-full bg-rose-300 p1 hover:bg-sky-700">
+                        <button class="float-right rounded-full bg-pink-400 p-1 hover:bg-pink-500">
                         Add Users
                     </button>
 
@@ -47,15 +47,15 @@
                                <td class="text-center">{{$user->email}} </td>
                                <td class="text-center">
                                 <a href="{{ url('/users/update/' .$user->id) }}">
-                                    <button class="rounded-full bg-orange-400 p-1 hover:bg-orange-500">Update</button>
+                                    <button class="rounded-full bg-fuchsia-400 p-1 hover:bg-fuchsia-700">Update</button>
                                </a>
                                
                                <a href="{{ url('/users/password/' .$user->id) }}">
-                                <button class="rounded-full bg-orange-400 p-1 hover:bg-orange-500">Password</button>                               
+                                <button class="rounded-full bg-fuchsia-400 p-1 hover:bg-fuchsia-700">Password</button>                               
 
                                </a>
                                 <a href="{{ url('/users/delete/' .$user->id) }}">    
-                                    <button class="rounded-full bg-orange-700 p-1 hover:bg-orange-500">Delete</button>
+                                    <button class="rounded-full bg-fuchsia-400 p-1 hover:bg-fuchsia-700">Delete</button>
 
 
                                 
