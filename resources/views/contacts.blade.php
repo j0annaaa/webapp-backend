@@ -63,7 +63,7 @@
     <!-- Contact End -->
 
     <!-- Feature Start -->
-    <div class="container-fluid bg-light bg-icon my-5 py-6">
+    <div class="container-fluid bg-light my-5 py-6">
         <div class="container">
             <div class="mapouter"><div class="gmap_canvas"><iframe width="1120" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=P1%20T.Calo,%20Brgy.%20Limaha%20Butuan%20City&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net">fmovies</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:1120px;}</style><a href="https://www.embedgooglemap.net">custom google maps embed</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:1120px;}</style></div></div>
         </div>

@@ -715,7 +715,7 @@
 
 
     <!-- Firm Visit Start -->
-    <div class="container-fluid bg-primary bg-icon mt-5 py-6">
+    <div class="container-fluid bg-primary mt-5 py-6">
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-md-7 wow fadeIn" data-wow-delay="0.1s">
@@ -732,7 +732,7 @@
 
 
     <!-- Testimonial Start -->
-    <div class="container-fluid bg-light bg-icon py-6 mb-5">
+    <div class="container-fluid bg-light py-6 mb-5">
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
                 <h1 class="display-5 mb-3">Customer Reviews</h1>
